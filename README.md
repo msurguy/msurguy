@@ -9,7 +9,9 @@ In my spare time I build [community](https://drawingbots.net) of drawing robot e
 - https://msurguy.github.io/cnc-text-tool/
 - https://msurguy.github.io/SquiggleCam/
 
-You can find me on Twitter where I post dev / design -related, inspiring content: https://twitter.com/msurguy
+Previously, I created [Bootsnipp](https://bootsnipp.com/) and dozens of Laravel-powered websites. I also wrote two e-books: [Integrating front-end components with web applications](https://leanpub.com/frontend) and [Laravel: my first framework](https://leanpub.com/laravel-first-framework) 
+
+You can follow me on Twitter where I post dev / design related, inspiring content: https://twitter.com/msurguy
 
 I'd appreciate if you could sponsor my open source work: 
 https://github.com/sponsors/msurguy
