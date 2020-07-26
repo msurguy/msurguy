@@ -14,6 +14,8 @@ You can find me on Twitter where I post dev / design -related, inspiring content
 I'd appreciate if you could sponsor my open source work: 
 https://github.com/sponsors/msurguy
 
+[![Msurguy's github stats](https://github-readme-stats.vercel.app/api?username=msurguy&show_icons=true)](https://github.com/msurguy)
+
 <!--
 **msurguy/msurguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
