@@ -18,6 +18,11 @@ https://github.com/sponsors/msurguy
 
 [![Msurguy's github stats](https://github-readme-stats.vercel.app/api?username=msurguy&show_icons=true)](https://github.com/msurguy)
 
+[![Twitter: msurguy](https://img.shields.io/twitter/follow/msurguy?style=social)](https://twitter.com/msurguy)
+[![Linkedin: msurguy](https://img.shields.io/badge/-msurguy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maksimsurguy/)](https://www.linkedin.com/in/maksimsurguy/)
+[![GitHub Msurguy](https://img.shields.io/github/followers/msurguy?label=follow&style=social)](https://github.com/msurguy)
+
+
 <!--
 **msurguy/msurguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
