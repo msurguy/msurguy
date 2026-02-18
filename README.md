@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-I'm Maks. I am a design technologist, creative coder, innovator and web developer with wide range of experience. You can learn a lot about me from my website: https://maxoffsky.com
+I'm Maks. I am a Design Technologist, creative coder, inventor and web developer with wide range of experience. You can learn a lot about me from my website: https://maxoffsky.com (outdated) and my art website https://makssurguy.com/, with labs and experiments at https://makssurguy.com/labs
 
-In my spare time I build [community](https://drawingbots.net) of drawing robot enthusiasts and make tools for 2D CNC machines like:
+In my spare time I build [community](https://drawingbots.net) of drawing robot enthusiasts and make web-based tools for 2D CNC machines like:
 
 - https://msurguy.github.io/rad-lines/
 - https://msurguy.github.io/flow-lines/
 - https://msurguy.github.io/cnc-text-tool/
 - https://msurguy.github.io/SquiggleCam/
 
-Previously, I created [Bootsnipp](https://bootsnipp.com/) and dozens of Laravel-powered websites. I also wrote two e-books: [Integrating front-end components with web applications](https://leanpub.com/frontend) and [Laravel: my first framework](https://leanpub.com/laravel-first-framework) 
+Previously, I created a website for web developers [Bootsnipp](https://bootsnipp.com/) and dozens of Laravel-powered websites. I also wrote two e-books: [Integrating front-end components with web applications](https://leanpub.com/frontend) and [Laravel: my first framework](https://leanpub.com/laravel-first-framework) 
 
 You can follow me on Twitter where I post dev / design related, inspiring content: https://twitter.com/msurguy
 
