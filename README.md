@@ -12,6 +12,7 @@ My experience spans product design and prototyping, front-end engineering, desig
 
 - **[squircle-path-kit](https://github.com/msurguy/squircle-path-kit)** - Figma-exact SVG corner rounding and smoothing for rectangles and arbitrary polygons.
 - **[brushmark](https://github.com/msurguy/brushmark)** — Animated, hand-painted annotations for accessible, responsive web text.
+- **[Boolean algebra explorer](https://makssurguy.com/labs/boolean-algebra/)** Interactive Boolean Algebra explorer - Genuary 
 - **[triangles](https://github.com/msurguy/triangles)** - Seeded, renderer-switchable Delaunay backgrounds for the web.
 - **[dot-printer-studio](https://github.com/msurguy/dot-printer-studio)** — A browser-based editor and runtime for programmable dot-matrix animations.
 - **[plotter-svg-preview](https://github.com/msurguy/plotter-svg-preview)** — A React and Three.js tool for previewing plotter artwork on simulated paper with realistic lighting, scale, and materials.
