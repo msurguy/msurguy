@@ -1,39 +1,51 @@
-### Hi there 👋
+# Hi, I'm Maks 👋
 
-I'm Maks. I am a Design Technologist, creative coder, inventor and web developer with wide range of experience. You can learn a lot about me from my website: https://maxoffsky.com (outdated) and my art website https://makssurguy.com/, with labs and experiments at https://makssurguy.com/labs
+I'm a **Senior Design Technologist, design engineer, creative coder, and inventor** working at the intersection of design, software, graphics, AI, and physical computing.
 
-In my spare time I build [community](https://drawingbots.net) of drawing robot enthusiasts and make web-based tools for 2D CNC machines like:
+My experience spans product design and prototyping, front-end engineering, design systems, generative graphics, real-time rendering, embedded hardware, fabrication, and designer / developer tooling. I enjoy turning ambiguous ideas into working prototypes and building the tools needed to make those prototypes possible.
 
-- https://msurguy.github.io/rad-lines/
-- https://msurguy.github.io/flow-lines/
-- https://msurguy.github.io/cnc-text-tool/
-- https://msurguy.github.io/SquiggleCam/
+- **Art and creative technology:** [makssurguy.com](https://makssurguy.com/)
+- **Labs and experiments:** [makssurguy.com/labs](https://makssurguy.com/labs)
+- **Drawing robot community:** [drawingbots.com](https://drawingbots.com)
 
-Previously, I created a website for web developers [Bootsnipp](https://bootsnipp.com/) and dozens of Laravel-powered websites. I also wrote two e-books: [Integrating front-end components with web applications](https://leanpub.com/frontend) and [Laravel: my first framework](https://leanpub.com/laravel-first-framework) 
+## Selected recent projects
 
-You can follow me on Twitter where I post dev / design related, inspiring content: https://twitter.com/msurguy
+- **[squircle-path-kit](https://github.com/msurguy/squircle-path-kit)** - Figma-exact SVG corner rounding and smoothing for rectangles and arbitrary polygons.
+- **[brushmark](https://github.com/msurguy/brushmark)** — Animated, hand-painted annotations for accessible, responsive web text.
+- **[triangles](https://github.com/msurguy/triangles)** - Seeded, renderer-switchable Delaunay backgrounds for the web.
+- **[dot-printer-studio](https://github.com/msurguy/dot-printer-studio)** — A browser-based editor and runtime for programmable dot-matrix animations.
+- **[plotter-svg-preview](https://github.com/msurguy/plotter-svg-preview)** — A React and Three.js tool for previewing plotter artwork on simulated paper with realistic lighting, scale, and materials.
+- **[mosaic-js](https://github.com/msurguy/mosaic-js)** — A browser-only tool that builds pen-plotter-ready mosaics from Quick, Draw! doodles.
+- **[plotter-workshop-electricsea-2026](https://github.com/msurguy/plotter-workshop-electricsea-2026)** — Workshop materials and creative coding exercises for making generative art with pen plotters.
+- **[egg-svg-visualizer](https://github.com/msurguy/egg-svg-visualizer)** — A visualizer for wrapping SVG artwork around egg-shaped surfaces.
 
-I'd appreciate if you could sponsor my open source work: 
-https://github.com/sponsors/msurguy
+## Plotter and CNC tools
 
-[![Msurguy's github stats](https://github-readme-stats.vercel.app/api?username=msurguy&show_icons=true)](https://github.com/msurguy)
+I build open-source, browser-based tools for pen plotters, drawing robots, and other 2D CNC machines, including:
 
-[![Twitter: msurguy](https://img.shields.io/twitter/follow/msurguy?style=social)](https://twitter.com/msurguy)
-[![Linkedin: msurguy](https://img.shields.io/badge/-msurguy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maksimsurguy/)](https://www.linkedin.com/in/maksimsurguy/)
-[![GitHub Msurguy](https://img.shields.io/github/followers/msurguy?label=follow&style=social)](https://github.com/msurguy)
+- [VpypeJS](https://github.com/plottertools/vpype-js)
+- [Rad Lines](https://msurguy.github.io/rad-lines/)
+- [Flow Lines](https://msurguy.github.io/flow-lines/)
+- [CNC Text Tool](https://msurguy.github.io/cnc-text-tool/)
+  [PlotterFun Extended](https://github.com/msurguy/plotterfun-extended)
+- [SquiggleCam](https://msurguy.github.io/SquiggleCam/)
 
+I also organize and support a global community of 3000+ drawing robot enthusiasts through [Drawingbots Discord](https://drawingbots.com).
 
-<!--
-**msurguy/msurguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Earlier work
 
-Here are some ideas to get you started:
+Before focusing on design technology and creative tooling, I built dozens of Laravel-powered products and created [Bootsnipp](https://bootsnipp.com/), a component-sharing community for web developers, and [Laravel Tricks](https://laravel-tricks.com), a community website for Laravel developers. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also wrote two books:
+
+- [Integrating Front-End Components with Web Applications](https://leanpub.com/frontend)
+- [Laravel: My First Framework](https://leanpub.com/laravel-first-framework)
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maksim_Surguy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksimsurguy/)
+[![X / Twitter](https://img.shields.io/badge/X-@msurguy-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/msurguy)
+[![GitHub followers](https://img.shields.io/github/followers/msurguy?label=Follow&style=flat-square&logo=github)](https://github.com/msurguy)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-my_open_source_work-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/msurguy)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=msurguy&custom_title=Maks%20Surguy's%20Github%20stats&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=msurguy&custom_title=Maks%20Surguy's%20Github%20stats&show_icons=true&include_all_commits=true)
