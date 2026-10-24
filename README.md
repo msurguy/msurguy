@@ -1,6 +1,6 @@
 # Hi, I'm Maks 👋
 
-I'm a **Senior Design Technologist, design engineer, creative coder, and inventor** working at the intersection of design, software, graphics, AI, and physical computing.
+I'm a **Principal Design Technologist, design engineer, creative coder, and inventor** working at the intersection of design, software, graphics, AI, and physical computing.
 
 My experience spans product design and prototyping, front-end engineering, design systems, generative graphics, real-time rendering, embedded hardware, fabrication, and designer / developer tooling. I enjoy turning ambiguous ideas into working prototypes and building the tools needed to make those prototypes possible.
 
